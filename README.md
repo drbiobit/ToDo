@@ -1,5 +1,3 @@
-<img width="1435" height="756" alt="Screenshot 2026-04-26 at 2 30 48 PM" src="https://github.com/user-attachments/assets/d158cd11-0afe-4700-8635-593e60bbee73" />
-
 # 🩺 drbiobit tools
 
 A professional, unified productivity suite combining a high-performance Task Manager, a specialized Pomodoro Timer, and real-time Focus Analytics. Designed with a "Sharp UI" aesthetic and a high-contrast black-themed dark mode for maximum cognitive focus.
@@ -58,3 +56,5 @@ Full technical specifications are available in the `/docs` directory:
 - [Overview](./docs/overview.md)
 - [Tool Structure](./docs/tool_structure.md)
 - [Low-Level Design](./docs/LLD.md)
+## ⌗ Preview
+<img width="1435" height="756" alt="Screenshot 2026-04-26 at 2 30 48 PM" src="https://github.com/user-attachments/assets/d158cd11-0afe-4700-8635-593e60bbee73" />
